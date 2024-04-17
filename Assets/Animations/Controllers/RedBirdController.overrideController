@@ -6,10 +6,10 @@ AnimatorOverrideController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BlueBirdController
+  m_Name: RedBirdController
   m_Controller: {fileID: 9100000, guid: 29ae217ea2f2177458b0d133736c9681, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400000, guid: 28d8861cae8af4148aa1da36d3f6d929, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: 6013df958e76cbf4c9001436a73a69a6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 28d8861cae8af4148aa1da36d3f6d929, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: 87c9a3b8a5fe88a47948ca6d2863907f, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: d20611e3bee5a3940b71d360e3ebe733, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 87c9a3b8a5fe88a47948ca6d2863907f, type: 2}
